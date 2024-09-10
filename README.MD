@@ -19,13 +19,13 @@ z [WeatherAPI](https://www.weatherapi.com/) dla określonej daty.
 ### 1. Klonowanie repozytorium
 
 ```
-cd <folder-projektu>
 git clone https://github.com/SAREKRUTACJA/pogodynka.git
 ```
 
 ### 2. Ustawienie pliku środowiskowego
 
 ```
+cd pogodynka/src
 cp .env.example .env
 ```
 
